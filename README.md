@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%20There,%20I'm%20Riya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Data%20%26%20Visualization%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Hi%20There,%20I'm%20Riya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Computer%20Science%20Student%20%40%20VIT%20Chennai&descAlignY=52&descSize=17&descAlign=50" width="100%"/>
+
+<sub><b>Developer&nbsp;&nbsp;•&nbsp;&nbsp;Data & Visualization Enthusiast</b></sub>
 
 <br/>
 
@@ -24,7 +26,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science student at Vellore Institute of Technology (VIT)** who enjoys building practical applications and exploring how technology can solve real-world problems.
+I'm a **Computer Science student at VIT Chennai** who enjoys building practical applications and exploring how technology can solve real-world problems.
 
 My interests sit at the intersection of:
 
