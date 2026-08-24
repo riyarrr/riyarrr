@@ -281,11 +281,11 @@ I believe AI should be used where it **actually adds value**, rather than simply
 
 I'm always interested in connecting with students, developers, and people building interesting things.
 
-📧 **Email:** `YOUR_EMAIL_HERE`
+📧 **Email:** `riya849290@gmail.com`
 
-💼 **LinkedIn:** `YOUR_LINKEDIN_URL_HERE`
+💼 **LinkedIn:** `https://www.linkedin.com/in/riya-b00829335/`
 
-🌐 **Portfolio:** `Coming Soon`
+
 
 ---
 
